@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Client-Server (Client Final)",
+"dataUrl": "TestClient_012819_03_hostingAWS.data.unityweb",
+"wasmCodeUrl": "TestClient_012819_03_hostingAWS.wasm.code.unityweb",
+"wasmFrameworkUrl": "TestClient_012819_03_hostingAWS.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
